@@ -2,6 +2,7 @@
 
 It is a simple website which lets the user vote a choice of True/False and show all the votes in tabular form and display the trends analysis using BarGraph and LineChart.
 
+You can find a demo of this website running [at this url](http://pollingwebsite.herokuapp.com/)
 ## Installation
 
 You first need to download NodeJs which can be found [here](https://nodejs.org/en/download/)
@@ -33,3 +34,14 @@ Now you can start the server using the following command and open `localhost:300
 ```bash
 npm start
 ```
+
+
+## Libraries Used
+
+[express](https://www.npmjs.com/package/express)
+[mongoose](https://www.npmjs.com/package/mongoose)
+[ejs](https://www.npmjs.com/package/ejs)
+[body-parser](https://www.npmjs.com/package/body-parser)
+[chart.js](https://www.chartjs.org/)
+[bootstrap](https://getbootstrap.com/)
+
